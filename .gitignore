@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/APITestingChallenge/.vs/APITestingChallenge
+/APITestingChallenge/APITestingChallenge/bin/Debug/netcoreapp3.1
+/APITestingChallenge/APITestingChallenge/obj
